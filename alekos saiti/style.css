@@ -1,0 +1,44 @@
+header{
+    background: #8B0000;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkslategray;
+    font-size: 25px;
+    font-style:oblique;
+    font-weight: 100;
+}
+.main-h1{
+    color: black;
+}
+ 
+.vine-1{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 250px;
+    width: 370px;
+}
+.vine-2{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 250px;
+    width: 370px;
+}
+.cheeze{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 370px;
+}
+
+.churchxela{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 370px;
+}
